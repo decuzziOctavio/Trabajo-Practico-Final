@@ -134,4 +134,5 @@ if __name__ == '__main__':
 
 print("terminado!")
 print("Probando GitHUb 2026")
-PRINT("SEGUNDO CAMBIO DESDE GITHUB WEB")
+print("SEGUNDO CAMBIO DESDE GITHUB WEB")
+#Corregimos el print() de arriba que estaba escrito asi--> PRINT(...)
